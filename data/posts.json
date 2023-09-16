@@ -5,7 +5,7 @@
     "publishedAt": "2023-09-03 20:00:00",
     "author": {
       "name": "Roger Oliveira",
-      "avatarUrl": "https://github.com/rogerpoliver.png"
+      "avatarURL": "https://github.com/rogerpoliver.png"
     },
     "likes": 17,
     "comments": [
@@ -15,7 +15,7 @@
         "likes": 10,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarUrl": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png"
         }
       },
       {
@@ -24,7 +24,7 @@
         "likes": 7,
         "author": {
           "name": "Fernando Binkowski",
-          "avatarUrl": "https://github.com/fekow.png"
+          "avatarURL": "https://github.com/fekow.png"
         }
       }
     ]
@@ -35,7 +35,7 @@
     "publishedAt": "2023-09-04 10:30:00",
     "author": {
       "name": "Alice Ribeiro",
-      "avatarUrl": "https://github.com/aliicezzz.png"
+      "avatarURL": "https://github.com/aliicezzz.png"
     },
     "likes": 23,
     "comments": [
@@ -45,7 +45,7 @@
         "likes": 15,
         "author": {
           "name": "Roger Oliveira",
-          "avatarUrl": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png"
         }
       },
       {
@@ -54,7 +54,7 @@
         "likes": 8,
         "author": {
           "name": "Fernando Binkowski",
-          "avatarUrl": "https://github.com/fekow.png"
+          "avatarURL": "https://github.com/fekow.png"
         }
       }
     ]
@@ -65,7 +65,7 @@
     "publishedAt": "2023-09-05 15:45:00",
     "author": {
       "name": "Renata Soria",
-      "avatarUrl": "https://github.com/rssoria.png"
+      "avatarURL": "https://github.com/rssoria.png"
     },
     "likes": 21,
     "comments": [
@@ -75,7 +75,7 @@
         "likes": 12,
         "author": {
           "name": "David Clark",
-          "avatarUrl": "https://github.com/davidclark.png"
+          "avatarURL": "https://github.com/davidclark.png"
         }
       },
       {
@@ -84,7 +84,7 @@
         "likes": 9,
         "author": {
           "name": "Juliane Alves",
-          "avatarUrl": "https://github.com/julianealves.png"
+          "avatarURL": "https://github.com/julianealves.png"
         }
       }
     ]
@@ -95,7 +95,7 @@
     "publishedAt": "2023-09-06 08:20:00",
     "author": {
       "name": "Fernando Binkowski",
-      "avatarUrl": "https://github.com/fekow.png"
+      "avatarURL": "https://github.com/fekow.png"
     },
     "likes": 11,
     "comments": [
@@ -105,7 +105,7 @@
         "likes": 6,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarUrl": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png"
         }
       },
       {
@@ -114,7 +114,7 @@
         "likes": 5,
         "author": {
           "name": "Roger Oliveira",
-          "avatarUrl": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png"
         }
       }
     ]
@@ -125,7 +125,7 @@
     "publishedAt": "2023-09-07 17:00:00",
     "author": {
       "name": "David Clark",
-      "avatarUrl": "https://github.com/davidclark.png"
+      "avatarURL": "https://github.com/davidclark.png"
     },
     "likes": 7,
     "comments": [
@@ -135,7 +135,7 @@
         "likes": 4,
         "author": {
           "name": "Juliane Alves",
-          "avatarUrl": "https://github.com/julianealves.png"
+          "avatarURL": "https://github.com/julianealves.png"
         }
       },
       {
@@ -144,7 +144,7 @@
         "likes": 3,
         "author": {
           "name": "Renata Soria",
-          "avatarUrl": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png"
         }
       }
     ]
@@ -155,7 +155,7 @@
     "publishedAt": "2023-09-07 17:00:00",
     "author": {
       "name": "David Clark",
-      "avatarUrl": "https://github.com/davidclark.png"
+      "avatarURL": "https://github.com/davidclark.png"
     },
     "likes": 7,
     "comments": [
@@ -165,7 +165,7 @@
         "likes": 4,
         "author": {
           "name": "Juliane Alves",
-          "avatarUrl": "https://github.com/julianealves.png"
+          "avatarURL": "https://github.com/julianealves.png"
         }
       },
       {
@@ -174,7 +174,7 @@
         "likes": 3,
         "author": {
           "name": "Renata Soria",
-          "avatarUrl": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png"
         }
       }
     ]
@@ -185,7 +185,7 @@
     "publishedAt": "2023-09-08 09:15:00",
     "author": {
       "name": "Juliane Alves",
-      "avatarUrl": "https://github.com/julianealves.png"
+      "avatarURL": "https://github.com/julianealves.png"
     },
     "likes": 5,
     "comments": [
@@ -195,7 +195,7 @@
         "likes": 2,
         "author": {
           "name": "Roger Oliveira",
-          "avatarUrl": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png"
         }
       },
       {
@@ -204,7 +204,7 @@
         "likes": 3,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarUrl": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png"
         }
       }
     ]
@@ -215,7 +215,7 @@
     "publishedAt": "2023-09-09 14:30:00",
     "author": {
       "name": "João Inácio Neto",
-      "avatarUrl": "https://github.com/birobirobiro.png"
+      "avatarURL": "https://github.com/birobirobiro.png"
     },
     "likes": 8,
     "comments": [
@@ -225,7 +225,7 @@
         "likes": 5,
         "author": {
           "name": "Renata Soria",
-          "avatarUrl": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png"
         }
       },
       {
@@ -234,7 +234,7 @@
         "likes": 3,
         "author": {
           "name": "Fernando Binkowski",
-          "avatarUrl": "https://github.com/fekow.png"
+          "avatarURL": "https://github.com/fekow.png"
         }
       }
     ]
@@ -245,7 +245,7 @@
     "publishedAt": "2023-09-10 11:45:00",
     "author": {
       "name": "Jonas Bohrer",
-      "avatarUrl": "https://github.com/jonasbohrer.png"
+      "avatarURL": "https://github.com/jonasbohrer.png"
     },
     "likes": 6,
     "comments": [
@@ -255,7 +255,7 @@
         "likes": 4,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarUrl": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png"
         }
       },
       {
@@ -264,7 +264,7 @@
         "likes": 2,
         "author": {
           "name": "Roger Oliveira",
-          "avatarUrl": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png"
         }
       }
     ]
@@ -275,7 +275,7 @@
     "publishedAt": "2023-09-11 18:20:00",
     "author": {
       "name": "Felipe Rodrigues",
-      "avatarUrl": "https://github.com/lipeeeg.png"
+      "avatarURL": "https://github.com/lipeeeg.png"
     },
     "likes": 4,
     "comments": [
@@ -285,7 +285,7 @@
         "likes": 3,
         "author": {
           "name": "João Inácio Neto",
-          "avatarUrl": "https://github.com/birobirobiro.png"
+          "avatarURL": "https://github.com/birobirobiro.png"
         }
       },
       {
@@ -294,7 +294,7 @@
         "likes": 1,
         "author": {
           "name": "Renata Soria",
-          "avatarUrl": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png"
         }
       }
     ]
@@ -305,7 +305,7 @@
     "publishedAt": "2023-09-12 12:10:00",
     "author": {
       "name": "Régis Ximendes",
-      "avatarUrl": "https://github.com/regisximendes.png"
+      "avatarURL": "https://github.com/regisximendes.png"
     },
     "likes": 6,
     "comments": [
@@ -315,7 +315,7 @@
         "likes": 4,
         "author": {
           "name": "Jonas Bohrer",
-          "avatarUrl": "https://github.com/jonasbohrer.png"
+          "avatarURL": "https://github.com/jonasbohrer.png"
         }
       },
       {
@@ -324,7 +324,7 @@
         "likes": 2,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarUrl": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png"
         }
       }
     ]
