@@ -1,0 +1,332 @@
+[
+  {
+    "id": "c6a7d6f3-ea14-4f1a-9bbd-25c55bba79f1",
+    "content": "Hi folks! This is a social media project that I built during some Rocketseat course classes.",
+    "publishedAt": "2023-09-03 20:00:00",
+    "author": {
+      "name": "Roger Oliveira",
+      "avatarUrl": "https://github.com/rogerpoliver.png"
+    },
+    "likes": 17,
+    "comments": [
+      {
+        "id": "5e2bb9b2-68f1-44f7-9ef1-61bfa8a9d3ea",
+        "content": "Great work, Roger! I'm impressed with your project.",
+        "likes": 10,
+        "author": {
+          "name": "Alice Ribeiro",
+          "avatarUrl": "https://github.com/aliicezzz.png"
+        }
+      },
+      {
+        "id": "abed7eb6-63b3-4821-839f-c102eac43b6b",
+        "content": "I learned a lot from that course too. Keep up the good work!",
+        "likes": 7,
+        "author": {
+          "name": "Fernando Binkowski",
+          "avatarUrl": "https://github.com/fekow.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "2a581a0b-3e63-45f5-b3bb-d73c0e828193",
+    "content": "Hello everyone! Just launched a new website for our latest project. Check it out!",
+    "publishedAt": "2023-09-04 10:30:00",
+    "author": {
+      "name": "Alice Ribeiro",
+      "avatarUrl": "https://github.com/aliicezzz.png"
+    },
+    "likes": 23,
+    "comments": [
+      {
+        "id": "7e6ee76e-65a4-419e-96b9-b52662e79f3e",
+        "content": "The website looks amazing, Alice!",
+        "likes": 15,
+        "author": {
+          "name": "Roger Oliveira",
+          "avatarUrl": "https://github.com/rogerpoliver.png"
+        }
+      },
+      {
+        "id": "d95e3b4e-48e2-4f67-929d-9f73587bb132",
+        "content": "I love the design! Great job, Alice.",
+        "likes": 8,
+        "author": {
+          "name": "Fernando Binkowski",
+          "avatarUrl": "https://github.com/fekow.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "23454d5a-74a2-45e4-97a2-230c1f96a5aa",
+    "content": "Excited to share some insights from our latest data analysis project. Stay tuned for more!",
+    "publishedAt": "2023-09-05 15:45:00",
+    "author": {
+      "name": "Renata Soria",
+      "avatarUrl": "https://github.com/rssoria.png"
+    },
+    "likes": 21,
+    "comments": [
+      {
+        "id": "fdefd6d9-ea5b-471c-9d19-4c961fecd933",
+        "content": "Looking forward to seeing those insights, Renata!",
+        "likes": 12,
+        "author": {
+          "name": "David Clark",
+          "avatarUrl": "https://github.com/davidclark.png"
+        }
+      },
+      {
+        "id": "f9d8679b-c83a-4b74-8f3e-6e0a99c0a47e",
+        "content": "Data analysis is always interesting. Can't wait for your updates!",
+        "likes": 9,
+        "author": {
+          "name": "Juliane Alves",
+          "avatarUrl": "https://github.com/julianealves.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "c5e2d170-6a2e-47b2-a14e-9f6b4e4220b1",
+    "content": "Just finished designing a sleek new mobile app. Can't wait to see it in action!",
+    "publishedAt": "2023-09-06 08:20:00",
+    "author": {
+      "name": "Fernando Binkowski",
+      "avatarUrl": "https://github.com/fekow.png"
+    },
+    "likes": 11,
+    "comments": [
+      {
+        "id": "2d3b6d6b-557b-408f-8979-6aa58d4c0e71",
+        "content": "I'm excited to try out your new app, Fernando!",
+        "likes": 6,
+        "author": {
+          "name": "Alice Ribeiro",
+          "avatarUrl": "https://github.com/aliicezzz.png"
+        }
+      },
+      {
+        "id": "98b0ffef-c5a0-4781-86b2-4ca46d93585f",
+        "content": "Sleek design is the way to go! Looking forward to the launch.",
+        "likes": 5,
+        "author": {
+          "name": "Roger Oliveira",
+          "avatarUrl": "https://github.com/rogerpoliver.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "980827f4-ee57-4f44-9467-73d91c228572",
+    "content": "Working on some exciting new features for our API. Stay tuned for updates!",
+    "publishedAt": "2023-09-07 17:00:00",
+    "author": {
+      "name": "David Clark",
+      "avatarUrl": "https://github.com/davidclark.png"
+    },
+    "likes": 7,
+    "comments": [
+      {
+        "id": "a4062a2d-6ed6-4ce0-96a9-c5f0bf78e615",
+        "content": "Can't wait to see what new features you're adding, David!",
+        "likes": 4,
+        "author": {
+          "name": "Juliane Alves",
+          "avatarUrl": "https://github.com/julianealves.png"
+        }
+      },
+      {
+        "id": "5f71d998-5f05-4cd4-9f45-9b80211ae3df",
+        "content": "API improvements are always welcome. Keep us posted!",
+        "likes": 3,
+        "author": {
+          "name": "Renata Soria",
+          "avatarUrl": "https://github.com/rssoria.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "980827f4-ee57-4f44-9467-73d91c228573",
+    "content": "Working on some exciting new features for our API. Stay tuned for updates!",
+    "publishedAt": "2023-09-07 17:00:00",
+    "author": {
+      "name": "David Clark",
+      "avatarUrl": "https://github.com/davidclark.png"
+    },
+    "likes": 7,
+    "comments": [
+      {
+        "id": "a4062a2d-6ed6-4ce0-96a9-c5f0bf78e615",
+        "content": "Can't wait to see what new features you're adding, David!",
+        "likes": 4,
+        "author": {
+          "name": "Juliane Alves",
+          "avatarUrl": "https://github.com/julianealves.png"
+        }
+      },
+      {
+        "id": "5f71d998-5f05-4cd4-9f45-9b80211ae3df",
+        "content": "API improvements are always welcome. Keep us posted!",
+        "likes": 3,
+        "author": {
+          "name": "Renata Soria",
+          "avatarUrl": "https://github.com/rssoria.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3b921dae-965b-42a2-845c-6daaf9d2028d",
+    "content": "We're launching a new product next week. Stay tuned for the big reveal!",
+    "publishedAt": "2023-09-08 09:15:00",
+    "author": {
+      "name": "Juliane Alves",
+      "avatarUrl": "https://github.com/julianealves.png"
+    },
+    "likes": 5,
+    "comments": [
+      {
+        "id": "f8f62c95-0323-4f0d-914f-6f75fda11d3c",
+        "content": "Can't wait to see what you've been working on, Juliane!",
+        "likes": 2,
+        "author": {
+          "name": "Roger Oliveira",
+          "avatarUrl": "https://github.com/rogerpoliver.png"
+        }
+      },
+      {
+        "id": "2b5463f8-072e-4aa5-81cc-6f9b3e8e7e7f",
+        "content": "Exciting news, Juliane! Looking forward to the launch.",
+        "likes": 3,
+        "author": {
+          "name": "Alice Ribeiro",
+          "avatarUrl": "https://github.com/aliicezzz.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "91a9bce4-d8c1-4c90-b8dd-14f58aa8c09b",
+    "content": "Started working on a challenging new project. Excited to see where it takes us!",
+    "publishedAt": "2023-09-09 14:30:00",
+    "author": {
+      "name": "João Inácio Neto",
+      "avatarUrl": "https://github.com/birobirobiro.png"
+    },
+    "likes": 8,
+    "comments": [
+      {
+        "id": "6c065f5c-2c7f-470d-88b3-86b7cb1260a1",
+        "content": "Challenges make us grow, João! Best of luck with your project.",
+        "likes": 5,
+        "author": {
+          "name": "Renata Soria",
+          "avatarUrl": "https://github.com/rssoria.png"
+        }
+      },
+      {
+        "id": "f2ef3bf3-352e-4e7d-8593-47f9e8f769a0",
+        "content": "Looking forward to hearing more about your project, João!",
+        "likes": 3,
+        "author": {
+          "name": "Fernando Binkowski",
+          "avatarUrl": "https://github.com/fekow.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "52b38fe0-5d13-4cfb-9790-1c08ac0470e5",
+    "content": "Designing a beautiful new pipeline for a client. Can't wait to showcase it!",
+    "publishedAt": "2023-09-10 11:45:00",
+    "author": {
+      "name": "Jonas Bohrer",
+      "avatarUrl": "https://github.com/jonasbohrer.png"
+    },
+    "likes": 6,
+    "comments": [
+      {
+        "id": "62f6104a-9946-4427-849b-84c9f63e0766",
+        "content": "Beautiful design is always appreciated, Jonas! Looking forward to seeing it.",
+        "likes": 4,
+        "author": {
+          "name": "Alice Ribeiro",
+          "avatarUrl": "https://github.com/aliicezzz.png"
+        }
+      },
+      {
+        "id": "c1e83d13-065a-4c12-85cc-729d9bdfb3e6",
+        "content": "Design plays a crucial role. Can't wait to witness your work, Jonas!",
+        "likes": 2,
+        "author": {
+          "name": "Roger Oliveira",
+          "avatarUrl": "https://github.com/rogerpoliver.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6a6b0ad4-8197-42eb-aa0f-77f49635f1ea",
+    "content": "Implementing some automated deployment pipelines. Streamlining our workflow!",
+    "publishedAt": "2023-09-11 18:20:00",
+    "author": {
+      "name": "Felipe Rodrigues",
+      "avatarUrl": "https://github.com/lipeeeg.png"
+    },
+    "likes": 4,
+    "comments": [
+      {
+        "id": "13ff9866-d865-4d4a-8a45-7982aa09d282",
+        "content": "Automation is key, Felipe! It's a game-changer for workflows.",
+        "likes": 3,
+        "author": {
+          "name": "João Inácio Neto",
+          "avatarUrl": "https://github.com/birobirobiro.png"
+        }
+      },
+      {
+        "id": "ec1f308c-40ad-42ea-a99d-0c25d0a2c5c9",
+        "content": "Efficiency is the name of the game. Great work, Felipe!",
+        "likes": 1,
+        "author": {
+          "name": "Renata Soria",
+          "avatarUrl": "https://github.com/rssoria.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": "be6aa058-e481-41ae-83b7-88cb6ef16f58",
+    "content": "Working on responsive design for a client's website. Mobile-first approach!",
+    "publishedAt": "2023-09-12 12:10:00",
+    "author": {
+      "name": "Régis Ximendes",
+      "avatarUrl": "https://github.com/regisximendes.png"
+    },
+    "likes": 6,
+    "comments": [
+      {
+        "id": "6705388c-79d0-472f-9475-1c9577a889cd",
+        "content": "Mobile-first is the way to go, Régis! Keep up the good work.",
+        "likes": 4,
+        "author": {
+          "name": "Jonas Bohrer",
+          "avatarUrl": "https://github.com/jonasbohrer.png"
+        }
+      },
+      {
+        "id": "372b2ca2-4e9b-4b80-b3c3-b3697435f27d",
+        "content": "Responsive design is crucial for user experience. Nice job, Régis!",
+        "likes": 2,
+        "author": {
+          "name": "Alice Ribeiro",
+          "avatarUrl": "https://github.com/aliicezzz.png"
+        }
+      }
+    ]
+  }
+]
