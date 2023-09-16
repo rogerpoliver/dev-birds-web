@@ -36,7 +36,7 @@ export function Comment(props: PostComment) {
 
   return (
     <div className={styles.comment}>
-      <Avatar src={avatarURL} />
+      <Avatar src={avatarURL} alt="" />
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
           <header>

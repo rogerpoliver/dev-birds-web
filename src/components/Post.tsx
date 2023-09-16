@@ -71,7 +71,7 @@ export function Post(props: PostProps) {
     <article className={styles.post}>
       <header>
         <div className={styles.author}>
-          <Avatar src={author.avatarURL} style={styles.avatar} />
+          <Avatar src={author.avatarURL} style={styles.avatar} alt="" />
           <div className={styles.authorInfo}>
             <ProfileInfo name={author.name} role={author.role} />
           </div>

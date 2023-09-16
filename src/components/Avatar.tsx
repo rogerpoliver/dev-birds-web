@@ -1,7 +1,7 @@
 interface AvatarProps {
-  style: string;
+  style?: string;
   src: string;
-  alt: string;
+  alt?: string;
 }
 
 export function Avatar(props: AvatarProps) {
