@@ -5,7 +5,8 @@
     "publishedAt": "2023-09-03 20:00:00",
     "author": {
       "name": "Roger Oliveira",
-      "avatarURL": "https://github.com/rogerpoliver.png"
+      "avatarURL": "https://github.com/rogerpoliver.png",
+      "role": "Software Developer @ ADP Brazil Labs"
     },
     "likes": 17,
     "comments": [
@@ -15,7 +16,8 @@
         "likes": 10,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarURL": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png",
+          "role": "Frontend Developer @ Acme Inc."
         }
       },
       {
@@ -24,7 +26,8 @@
         "likes": 7,
         "author": {
           "name": "Fernando Binkowski",
-          "avatarURL": "https://github.com/fekow.png"
+          "avatarURL": "https://github.com/fekow.png",
+          "role": "Software Developer @ DesignHub"
         }
       }
     ]
@@ -35,7 +38,8 @@
     "publishedAt": "2023-09-04 10:30:00",
     "author": {
       "name": "Alice Ribeiro",
-      "avatarURL": "https://github.com/aliicezzz.png"
+      "avatarURL": "https://github.com/aliicezzz.png",
+      "role": "Frontend Developer @ Acme Inc."
     },
     "likes": 23,
     "comments": [
@@ -45,7 +49,8 @@
         "likes": 15,
         "author": {
           "name": "Roger Oliveira",
-          "avatarURL": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png",
+          "role": "Software Developer @ ADP Brazil Labs"
         }
       },
       {
@@ -54,7 +59,8 @@
         "likes": 8,
         "author": {
           "name": "Fernando Binkowski",
-          "avatarURL": "https://github.com/fekow.png"
+          "avatarURL": "https://github.com/fekow.png",
+          "role": "Software Developer @ DesignHub"
         }
       }
     ]
@@ -65,7 +71,8 @@
     "publishedAt": "2023-09-05 15:45:00",
     "author": {
       "name": "Renata Soria",
-      "avatarURL": "https://github.com/rssoria.png"
+      "avatarURL": "https://github.com/rssoria.png",
+      "role": "Fullstack Developer @ TechCorp"
     },
     "likes": 21,
     "comments": [
@@ -75,7 +82,8 @@
         "likes": 12,
         "author": {
           "name": "David Clark",
-          "avatarURL": "https://github.com/davidclark.png"
+          "avatarURL": "https://github.com/davidclark.png",
+          "role": "Backend Developer @ CodeWave"
         }
       },
       {
@@ -84,7 +92,8 @@
         "likes": 9,
         "author": {
           "name": "Juliane Alves",
-          "avatarURL": "https://github.com/julianealves.png"
+          "avatarURL": "https://github.com/julianealves.png",
+          "role": "Data Scientist @ ADP"
         }
       }
     ]
@@ -95,7 +104,8 @@
     "publishedAt": "2023-09-06 08:20:00",
     "author": {
       "name": "Fernando Binkowski",
-      "avatarURL": "https://github.com/fekow.png"
+      "avatarURL": "https://github.com/fekow.png",
+      "role": "Software Developer @ DesignHub"
     },
     "likes": 11,
     "comments": [
@@ -105,7 +115,8 @@
         "likes": 6,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarURL": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png",
+          "role": "Frontend Developer @ Acme Inc."
         }
       },
       {
@@ -114,7 +125,8 @@
         "likes": 5,
         "author": {
           "name": "Roger Oliveira",
-          "avatarURL": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png",
+          "role": "Software Developer @ ADP Brazil Labs"
         }
       }
     ]
@@ -125,7 +137,8 @@
     "publishedAt": "2023-09-07 17:00:00",
     "author": {
       "name": "David Clark",
-      "avatarURL": "https://github.com/davidclark.png"
+      "avatarURL": "https://github.com/davidclark.png",
+      "role": "Backend Developer @ CodeWave"
     },
     "likes": 7,
     "comments": [
@@ -135,7 +148,8 @@
         "likes": 4,
         "author": {
           "name": "Juliane Alves",
-          "avatarURL": "https://github.com/julianealves.png"
+          "avatarURL": "https://github.com/julianealves.png",
+          "role": "Data Scientist @ ADP"
         }
       },
       {
@@ -144,7 +158,8 @@
         "likes": 3,
         "author": {
           "name": "Renata Soria",
-          "avatarURL": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png",
+          "role": "Fullstack Developer @ TechCorp"
         }
       }
     ]
@@ -155,7 +170,8 @@
     "publishedAt": "2023-09-07 17:00:00",
     "author": {
       "name": "David Clark",
-      "avatarURL": "https://github.com/davidclark.png"
+      "avatarURL": "https://github.com/davidclark.png",
+      "role": "Backend Developer @ CodeWave"
     },
     "likes": 7,
     "comments": [
@@ -165,7 +181,8 @@
         "likes": 4,
         "author": {
           "name": "Juliane Alves",
-          "avatarURL": "https://github.com/julianealves.png"
+          "avatarURL": "https://github.com/julianealves.png",
+          "role": "Data Scientist @ ADP"
         }
       },
       {
@@ -174,7 +191,8 @@
         "likes": 3,
         "author": {
           "name": "Renata Soria",
-          "avatarURL": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png",
+          "role": "Fullstack Developer @ TechCorp"
         }
       }
     ]
@@ -185,7 +203,8 @@
     "publishedAt": "2023-09-08 09:15:00",
     "author": {
       "name": "Juliane Alves",
-      "avatarURL": "https://github.com/julianealves.png"
+      "avatarURL": "https://github.com/julianealves.png",
+      "role": "Data Scientist @ ADP"
     },
     "likes": 5,
     "comments": [
@@ -195,7 +214,8 @@
         "likes": 2,
         "author": {
           "name": "Roger Oliveira",
-          "avatarURL": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/rogerpoliver.png",
+          "role": "Software Developer @ ADP Brazil Labs"
         }
       },
       {
@@ -204,7 +224,8 @@
         "likes": 3,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarURL": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png",
+          "role": "Frontend Developer @ Acme Inc."
         }
       }
     ]
@@ -215,7 +236,8 @@
     "publishedAt": "2023-09-09 14:30:00",
     "author": {
       "name": "João Inácio Neto",
-      "avatarURL": "https://github.com/birobirobiro.png"
+      "avatarURL": "https://github.com/birobirobiro.png",
+      "role": "Full Stack Developer @ Rocketseat"
     },
     "likes": 8,
     "comments": [
@@ -225,7 +247,8 @@
         "likes": 5,
         "author": {
           "name": "Renata Soria",
-          "avatarURL": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png",
+          "role": "Fullstack Developer @ TechCorp"
         }
       },
       {
@@ -234,37 +257,8 @@
         "likes": 3,
         "author": {
           "name": "Fernando Binkowski",
-          "avatarURL": "https://github.com/fekow.png"
-        }
-      }
-    ]
-  },
-  {
-    "id": "52b38fe0-5d13-4cfb-9790-1c08ac0470e5",
-    "content": "Designing a beautiful new pipeline for a client. Can't wait to showcase it!",
-    "publishedAt": "2023-09-10 11:45:00",
-    "author": {
-      "name": "Jonas Bohrer",
-      "avatarURL": "https://github.com/jonasbohrer.png"
-    },
-    "likes": 6,
-    "comments": [
-      {
-        "id": "62f6104a-9946-4427-849b-84c9f63e0766",
-        "content": "Beautiful design is always appreciated, Jonas! Looking forward to seeing it.",
-        "likes": 4,
-        "author": {
-          "name": "Alice Ribeiro",
-          "avatarURL": "https://github.com/aliicezzz.png"
-        }
-      },
-      {
-        "id": "c1e83d13-065a-4c12-85cc-729d9bdfb3e6",
-        "content": "Design plays a crucial role. Can't wait to witness your work, Jonas!",
-        "likes": 2,
-        "author": {
-          "name": "Roger Oliveira",
-          "avatarURL": "https://github.com/rogerpoliver.png"
+          "avatarURL": "https://github.com/fekow.png",
+          "role": "Software Developer @ DesignHub"
         }
       }
     ]
@@ -275,7 +269,8 @@
     "publishedAt": "2023-09-11 18:20:00",
     "author": {
       "name": "Felipe Rodrigues",
-      "avatarURL": "https://github.com/lipeeeg.png"
+      "avatarURL": "https://github.com/lipeeeg.png",
+      "role": "DevOps Engineer @ CloudTech"
     },
     "likes": 4,
     "comments": [
@@ -285,7 +280,8 @@
         "likes": 3,
         "author": {
           "name": "João Inácio Neto",
-          "avatarURL": "https://github.com/birobirobiro.png"
+          "avatarURL": "https://github.com/birobirobiro.png",
+          "role": "Full Stack Developer @ Rocketseat"
         }
       },
       {
@@ -294,7 +290,8 @@
         "likes": 1,
         "author": {
           "name": "Renata Soria",
-          "avatarURL": "https://github.com/rssoria.png"
+          "avatarURL": "https://github.com/rssoria.png",
+          "role": "Fullstack Developer @ TechCorp"
         }
       }
     ]
@@ -305,7 +302,8 @@
     "publishedAt": "2023-09-12 12:10:00",
     "author": {
       "name": "Régis Ximendes",
-      "avatarURL": "https://github.com/regisximendes.png"
+      "avatarURL": "https://github.com/regisximendes.png",
+      "role": "Mobile Developer @ WebWizards"
     },
     "likes": 6,
     "comments": [
@@ -315,7 +313,8 @@
         "likes": 4,
         "author": {
           "name": "Jonas Bohrer",
-          "avatarURL": "https://github.com/jonasbohrer.png"
+          "avatarURL": "https://github.com/jonasbohrer.png",
+          "role": "Data Engineer @ Thoughtworks"
         }
       },
       {
@@ -324,7 +323,8 @@
         "likes": 2,
         "author": {
           "name": "Alice Ribeiro",
-          "avatarURL": "https://github.com/aliicezzz.png"
+          "avatarURL": "https://github.com/aliicezzz.png",
+          "role": "Frontend Developer @ Acme Inc."
         }
       }
     ]
